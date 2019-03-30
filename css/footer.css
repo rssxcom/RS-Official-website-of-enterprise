@@ -1,0 +1,51 @@
+/*footer*/
+
+
+.index_footer{ background: #434b58; margin-top: 40px; height: 200px; padding: 40px 0;font-size: 14px;color: #999;font-weight: normal;}
+.index_footer ul{ float: left; display: block;}
+.index_footer ul li{ margin-bottom: 15px;}
+.index_footer ul li a,.footer ul li{ font-size: 16px;color: #999;font-weight: normal;}
+.ft_wx li{ float: left; display: block; width: 175px; text-align: center; margin-right: 20px;}
+.ft_1{ width: 120px;}
+.ft_2{ width:450px ;}
+
+
+li{ list-style-type: none;}
+.side-bar{ width: 65px; background: #065ccc; border-radius: 5px; position: fixed; right: 0; top:20%;z-index: 22222;text-align: center;}
+.side-bar li{ width: 63px; padding: 10px 0; }
+.side-bar  a{width: 63px;padding: 10px 0; font-size: 12px !important; color: #fff ;text-align: center; font-family: "微软雅黑"; }
+.side-bar span{ width: 22px; height: 22px; display: block;margin: 0 auto; margin-bottom: 5px; background: url(../images/iocn.png) no-repeat  center;}
+.side-bar .sidb_2,.side-bar .sidb_3,.side-bar .sidb_4,.side-bar .sidb_5,.side-bar .sidb_6{ background: #fff; border:  solid 1px #e3e3e3; border-bottom: 0;}
+.side-bar a .sidb_2,.side-bar a .sidb_3,.side-bar a .sidb_4,.side-bar a .sidb_5,.side-bar a .sidb_6{ color: #707070;}
+.side-bar a:hover .sidb_2,.side-bar a:hover .sidb_4,.side-bar a:hover .sidb_5{background: #065ccc; border-left:  solid 1px #065ccc;border-right:  solid 1px #065ccc; color: #fff; border-top:solid 1px #fff;}
+.side-bar a:hover .sidb_6{background: #065ccc; border-left:  solid 1px #065ccc;border-right:  solid 1px #065ccc; color: #fff; border-top:0;border-bottom:  solid 1px #fff; }
+.side-bar a:hover .sidb_3{background: #065ccc; border-left:  solid 1px #fff;border-right:  solid 1px #065ccc; color: #fff; border-top:solid 1px #fff;}
+.side-bar .sidb_1 span{ background:url(../images/cg.png) no-repeat ;width: 30px;height: 30px;}
+/*.side-bar .sidb_1 span{ background-position: 0px -49px;}*/
+.side-bar .sidb_2 span{ background-position: -22px -49px;}
+.side-bar .sidb_3 span{ background-position: -44px -49px;}
+.side-bar .sidb_4 span{  background-position: -66px -49px;}
+.side-bar .sidb_5 span{  background-position: -88px -49px;}
+.side-bar .sidb_6 span{  background-position: -110px -49px;}
+.side-bar .sidb_7 span{  background-position: -132px -49px;}
+.side-bar a:hover .sidb_2 span{ background-position: -22px -71px;}
+.side-bar a:hover .sidb_3 span{ background-position: -44px -71px;}
+.side-bar a:hover .sidb_4 span{ background-position: -66px -71px;}
+.side-bar a:hover .sidb_5 span{ background-position: -88px -71px;}
+.side-bar a:hover .sidb_6 span{background-position: -110px -71px;}
+.side-bar .sidb_4 dt{ display: none; position: relative;}
+.side-bar a:hover .sidb_4 dt{ display: block; position: absolute; color: #000; right:66px; top: 72px; background:url(../images/meatoo_wx.jpg) no-repeat #000; height:150px;  width: 150px; font-size: 12px ;border:1px solid #d0d6d9 ;padding: 20px 10px; color: #fff;}
+.side-bar .sidb_3 dt,.side-bar .sidb_7 img{ display: none; position: relative;}
+.side-bar .sidb_3 dt{ display: none; position: relative;}
+.side-bar a:hover .sidb_3 dt{ display: block; position: absolute; color: #000; right:66px; top: 72px; background: #065CCC; width: 150px; font-size: 12px ; padding: 20px 10px; color: #fff;}
+.side-bar a:hover .sidb_7 img{display: block; position: absolute; right:66px; bottom: 0;}
+
+.consult-qq,.consult-tel{position: absolute; left: -100px; top: 0; background:#fff; border:1px solid #D2D2D2; padding:10px;}
+.consult-qq a{display: block; font-size: 12px; line-height: 22px; height: 22px; background:url(../../images/online.jpg) no-repeat; color: #333; padding-left: 25px; margin-bottom: 10px;padding-right: 5px;}
+.consult-qq a.q2{background-position: left -26px; margin-bottom: 0;}
+.consult-tel{left:-128px; width: 116px;background: #FFF;padding: 10px 5px 10px 5px;}
+.consult-tel a{background:url(../../images/city.png) no-repeat left 0; height:24px; line-height: 24px;display: block;padding-left: 25px;font-size: 12px;color: #333333;}
+.consult-tel a:hover{text-decoration: underline;}
+.consult-tel a.n2{background-position: left -24px;}
+.consult-tel a.n3{background-position: left -48px; margin-bottom: 0;}
+.consult-tel a.n4{background-position: left -72px;}
